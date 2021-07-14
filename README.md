@@ -4,10 +4,10 @@ PANDUAN MENGGUNAKAN APLIKASI WA AUTO SENDER
 APLIKASI DIBUAT DENGAN PYTHON TKINDER GUI
 -----------------------------------------
 
-Video Tutorial :
+Video Tutorial : https://youtu.be/71aLCSyt2uc + Full Sources code
 
 
-1. RUN "WA Auto Sender App.exe"
+1. RUN "wagui.py"
 2. Buka "Data Template.xlsx"
 3. Sesuaikan "Data Template.xlsx" sesuai kebutuhan anda
 4. Save As "Data Template.xlsx" Menjadi Ekstensi Data Template.csv (comma delimited)
